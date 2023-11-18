@@ -10,7 +10,7 @@ import shodan
 target_host = "Replace with Target IP"
 
 # Define the Shodan API key
-shodan_api_key = "dGeATAfBaLqxzxDyGfSkQkEfJtGKV3Wo"
+shodan_api_key = "Replace with key"
 
 # Define the target URL
 target_url = f"https://{target_host}"
