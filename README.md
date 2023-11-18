@@ -1,8 +1,11 @@
-Cybersecurity and System Analysis Scripts Repository README
+Cybersecurity and System Analysis Scripts Repository
+
 Repository Overview
+
 This repository contains a collection of Python scripts designed for various cybersecurity and system analysis tasks. These scripts cover a range of functions, from process monitoring and registry key analysis to web host information gathering, server inventory management, and specialized file operations.
 
-Contents
+Contents:
+
 Process and Thread Information Script
 
 Lists and details processes running on a system.
