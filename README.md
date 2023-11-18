@@ -6,43 +6,43 @@ This repository contains a collection of Python scripts designed for various cyb
 
 Contents:
 
-Process and Thread Information Script
+- Process and Thread Information Script
 
 Lists and details processes running on a system.
 
 Dependencies: psutil
 
-Registry Key Analysis Script
+- Registry Key Analysis Script
 
 Fetches and displays values from specific Windows registry keys.
 
 Dependencies: winreg (built-in)
 
-Process and Registry Monitoring Script
+- Process and Registry Monitoring Script
 
 Monitors specific Windows processes and their registry settings.
 
 Dependencies: winreg, psutil
 
-Web Host Information Gathering Script
+- Web Host Information Gathering Script
 
 Gathers detailed information about a web host.
 
 Dependencies: requests, socket, BeautifulSoup, dns.resolver, whois, ssl, shodan
 
-Server Information Retrieval Script
+- Server Information Retrieval Script
 
 Fetches information about servers from a JSON file and writes to a text file.
 
 Dependencies: json, requests
 
-Process Base Address Search Script
+- Process Base Address Search Script
 
 Searches a log file for processes with a specified base address.
 
 Dependencies: sys (built-in)
 
-Windows Defender File Cleanup Script
+- Windows Defender File Cleanup Script
 
 Automates deletion of specific Windows Defender-related files.
 
