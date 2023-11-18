@@ -1,4 +1,4 @@
-Cybersecurity and System Analysis Scripts Repository
+Cybersecurity and System Analysis Scripts Repository:
 
 Repository Overview
 
@@ -63,5 +63,6 @@ Repository Maintenance
 
 This repository is regularly updated to include more scripts and enhancements to existing ones. Contributions and feedback are welcome.
 
-Author
+Author:
+
 J0hn-0
