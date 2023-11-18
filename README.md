@@ -1,4 +1,4 @@
-Cybersecurity and System Analysis Scripts Repository README
+Cybersecurity and System Analysis Scripts Repository
 
 Repository Overview
 
