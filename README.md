@@ -6,25 +6,32 @@ This repository, created and maintained by J0hn-0, is a curated collection of Py
 
 Contents
 
-	1.	Process and Thread Information Script
+1. Process and Thread Information Script
 	•	Function: Lists and provides details of running processes.
 	•	Dependencies: psutil
-	2.	Registry Key Analysis Script
+	
+2.	Registry Key Analysis Script
 	•	Function: Fetches and displays values from specific Windows registry keys.
 	•	Dependencies: winreg (built-in)
-	3.	Process and Registry Monitoring Script
+	
+3.	Process and Registry Monitoring Script
 	•	Function: Monitors specific Windows processes and their registry settings.
 	•	Dependencies: winreg, psutil
-	4.	Web Host Information Gathering Script
+	
+4.	Web Host Information Gathering Script
 	•	Function: Gathers detailed information about a web host.
 	•	Dependencies: requests, socket, BeautifulSoup, dns.resolver, whois, ssl, shodan
-	5.	Server Information Retrieval Script
+	
+5.	Server Information Retrieval Script
 	•	Function: Retrieves information about servers from a JSON file and writes to a text file.
 	•	Dependencies: json, requests
-	6.	Process Base Address Search Script
+	
+6.	Process Base Address Search Script
 	•	Function: Searches a log file for processes with a specified base address.
 	•	Dependencies: sys (built-in)
-	7.	Windows Defender File Cleanup Script
+	
+
+7.	Windows Defender File Cleanup Script
 	•	Function: Automates the deletion of specific Windows Defender-related files.
 	•	Dependencies: subprocess, os, ctypes, sys
 
