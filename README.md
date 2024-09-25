@@ -51,7 +51,3 @@ Repository Maintenance
 
 The repository is an evolving collection of scripts, regularly updated to include new tools and enhancements to existing ones. Contributions and feedback from the community are highly valued and welcomed.
 
-Author
-
-J0hn-0
-
