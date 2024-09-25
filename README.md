@@ -1,8 +1,7 @@
-Cybersecurity and System Analysis Scripts Repository
-
+Advanced toolkit for system analysis and cybersecurity, focusing on threat modeling and secure infrastructure management.
 Repository Overview
 
-This repository, created and maintained by J0hn-0, is a curated collection of Python scripts focused on cybersecurity and system analysis tasks. These scripts serve a variety of purposes, ranging from process monitoring to data gathering, each tailored to enhance cybersecurity efforts and system management.
+This repository, created and maintained by me, is a curated collection of Python scripts focused on cybersecurity and system analysis tasks. These scripts serve a variety of purposes, ranging from process monitoring to data gathering, each tailored to enhance cybersecurity efforts and system management.
 
 Contents
 
@@ -37,7 +36,7 @@ Contents
 
 Installation
 
-Each script in this repository has its own set of dependencies, most of which can be installed using pip. For detailed installation instructions, please refer to the README section of each script.
+Each script in this repository has its own set of dependencies, most of which can be installed using pip.
 
 Usage
 
